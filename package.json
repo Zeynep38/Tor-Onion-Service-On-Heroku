@@ -1,0 +1,30 @@
+{
+  "name": "tor-onion-service-on-heroku",
+  "version": "1.0.0",
+  "description": "tor onion services to dark web",
+  "main": "node.js",
+  "scripts": {
+    "test": "node node.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumithemmadi/Tor-Onion-Service-On-Heroku.git"
+  },
+  "keywords": [
+    "tor",
+    "onion",
+    "services",
+    "to",
+    "dark",
+    "web",
+    "hidden",
+    "service",
+    "onionlink"
+  ],
+  "author": "Sumith Emmadi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumithemmadi/Tor-Onion-Service-On-Heroku/issues"
+  },
+  "homepage": "https://github.com/sumithemmadi/Tor-Onion-Service-On-Heroku#readme"
+}
