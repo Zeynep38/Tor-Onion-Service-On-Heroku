@@ -19,7 +19,10 @@
     "web",
     "hidden",
     "service",
-    "onionlink"
+    "onionlink",
+    "Tor onion link"
+    "Tor v3"
+
   ],
   "author": "Sumith Emmadi",
   "license": "ISC",
