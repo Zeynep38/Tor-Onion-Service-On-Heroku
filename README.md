@@ -74,11 +74,11 @@ git push heroku
 
 - _Now your app is accessible over Tor_
 ## To know your .onion address
-- Run the below command on terminal
+- Run the below command on your terminal
 ```
 heroku run cat hidden/hostname
 ```
-- Output :-
+-  Output :-
 
 ![alt text](output.jpg)
 - 
